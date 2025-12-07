@@ -222,7 +222,7 @@ if (require.main === module) {
     console.log(`${c.dim}Usage:${c.reset}`);
     console.log(`  node tool.js ${c.yellow}<tiktok_url>${c.reset}\n`);
     console.log(`${c.dim}Example:${c.reset}`);
-    console.log(`  node tool.js ${c.cyan}https://vt.tiktok.com/ZSfPPXu3C/${c.reset}\n`);
+    console.log(`  node tool.js ${c.cyan}https://vt.tiktok.com/ZSP1sMWyA/${c.reset}\n`);
     process.exit(1);
   }
 
